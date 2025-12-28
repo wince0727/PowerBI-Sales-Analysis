@@ -27,5 +27,7 @@ This project analyzes sales data using Power BI to identify trends, performance,
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard.png)
 
+[Download Full Report (PDF)](PowerBI_Sales_Analysis.pdf)
+
 ## Author
 Wince S
