@@ -40,8 +40,5 @@ This project analyzes sales data using Power BI to identify trends, performance,
 ### Sales Map
 ![Sales Map](Dashboard.png/Map.png)
 
-## Download Report
-[Download Full Report (PDF)](Dashboard.pdf)
-
 ## Author
 **Wince S**
