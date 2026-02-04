@@ -31,12 +31,11 @@ This project analyzes sales data using Power BI to identify trends, performance,
 ### Main Dashboard
 ![Main Dashboard](Dashboard.png/Exe%20Dashboard.png)
 
-### Product Details
-![Product Details](Dashboard.png/Product%20Detail.png)
-
 ### Sales Map
 ![Sales Map](Dashboard.png/Map.png)
 
+### Product Details
+![Product Details](Dashboard.png/Product%20Detail.png)
 
 ### Customer Details
 ![Customer Details](Dashboard.png/Customer%20Detail.png)
