@@ -32,7 +32,7 @@ This project analyzes sales data using Power BI to identify trends, performance,
 ![Main Dashboard](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p1.png)
 
 ### Sales Map
-![Sales Map](Dashboard.png/Map.png)
+![Sales Map](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p2.png)
 
 ### Product Details
 ![Product Details](Dashboard.png/Product%20Detail.png)
