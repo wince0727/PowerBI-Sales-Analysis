@@ -29,16 +29,15 @@ This project analyzes sales data using Power BI to identify trends, performance,
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p1.png)
+![Main Dashboard](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Analysis/main/Dashboard%20img/Report%20p1.png)
 
 ### Sales Map
-![Sales Map](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p2.png)
+![Sales Map](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Analysis/main/Dashboard%20img/Report%20p2.png)
 
 ### Product Details
-![Product Details](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p3.png)
+![Product Details](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Analysis/main/Dashboard%20img/Report%20p3.png)
 
 ### Customer Details
-![Customer Details](https://github.com/wince0727/PowerBI-Sales-Analysis/blob/main/Dashboard%20img/Report%20p4.png)
-
+![Customer Details](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Analysis/main/Dashboard%20img/Report%20p4.png)
 ## Author
 **Wince S**
